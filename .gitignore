@@ -1,7 +1,8 @@
 # Datasets
-data/
+# data/
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Quizz file
+# Test file
+test.ipynb
