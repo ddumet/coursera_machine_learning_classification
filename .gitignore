@@ -3,6 +3,7 @@
 
 # Python virtualenv python 2.7
 python27/
+python35/
 
 # Jupyter Notebook
 .ipynb_checkpoints
